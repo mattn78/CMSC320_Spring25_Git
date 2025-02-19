@@ -8,4 +8,10 @@ Answer: Data Sciences could be applied to business by helping solve companies' q
 Data science can also be applied to government defense by analyzing data to predict threats and determine the best plans 
 for our country.
 
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging applies and combines the changes made on a certain feature branch to the current branch it is on.
+Rebase replays and moves the changes that we made from a certain feature branch to the tip of the
+current branch it is on, creating a linear history.
+
 
