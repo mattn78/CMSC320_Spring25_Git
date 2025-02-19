@@ -1,0 +1,3 @@
+Q1: Why might we consider using Git?
+
+Answer: We use Git to collaborate with others and mangage/track the changes and progress of our code.
