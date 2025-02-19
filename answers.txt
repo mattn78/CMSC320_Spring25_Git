@@ -1,3 +1,11 @@
 Q1: Why might we consider using Git?
 
 Answer: We use Git to collaborate with others and mangage/track the changes and progress of our code.
+
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Data Sciences could be applied to business by helping solve companies' questions and predicting their future.
+Data science can also be applied to government defense by analyzing data to predict threats and determine the best plans 
+for our country.
+
+
