@@ -14,4 +14,8 @@ Answer: Merging applies and combines the changes made on a certain feature branc
 Rebase replays and moves the changes that we made from a certain feature branch to the tip of the
 current branch it is on, creating a linear history.
 
+Q4: What are you looking forward to this semester?
 
+Answer: I am looking forward to learning more about the uses and practices of Data Science 
+and how it is incorporated in to the real world. I am also looking forward to learning about
+the tools and libraries that data scientists use.
